@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class studentQueue {
 	public static void main(String[] args) {
-		System.out.println("ÇëÊäÈëÊı¾İ£º");
 		Scanner scanner = new Scanner(System.in);
 		int n = scanner.nextInt();
 		int m = scanner.nextInt();
